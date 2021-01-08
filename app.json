@@ -1,18 +1,18 @@
 {
-  "name": "Asena UserBot",
-  "description": "Asena UserBot",
-  "logo": "https://i.hizliresim.com/1UoYoT.jpg",
+  "name": "Olympus UserBot",
+  "description": "Olympus UserBot",
+  "logo": "https://hizliresim.com/wPp5FH",
   "keywords": [
     "telegram",
     "userbot",
-	"Asena",
+	"Olympus",
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/quiec/AsenaUserbot",
+  "repository": "https://github.com/iibrahimwt13/olympususer.git",
   "website":   "https://quiec.tech",
-  "success_url": "https://t.me/AsenaSupport",
+  "success_url": "https://t.me/Olympuss10",
   "stack": "container",
   "env": {
     "API_KEY": {
@@ -54,7 +54,7 @@
     },
     "UPSTREAM_REPO_URL": {
       "description": "Fork sağlamanız durumunda repo URL'nizi buraya ekleyin. Varsayılan olarak kendi repo adresimiz eklidir.",
-      "value": "https://github.com/Quiec/AsenaUserBot",
+      "value": "https://github.com/iibrahimwt13/olympususer.git",
       "required": true
     },
     "COUNTRY": {
@@ -177,7 +177,7 @@
     },
     "DEFAULT_BIO": {
       "description": "Varsayılan profil biyografisi.",
-      "value": "@AsenaUserBot",
+      "value": "@OlympusUserBot",
       "required": false
     },
     "G_DRIVE_CLIENT_SECRET": {
@@ -217,7 +217,7 @@
     },
     "PAKET_ISMI": {
       "description": "Dızla komutu paket ismini belirleyin. Paket ismi şöyle olacaktır: @KullanıcıAdın verdiğin değer 1",
-      "value": "@AsenaUserBot Paketi",
+      "value": "@OlympusUserBot Paketi",
       "required": false
     },
     "OTOMATIK_KATILMA": {
