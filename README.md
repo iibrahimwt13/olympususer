@@ -1,13 +1,13 @@
 
 <div align="center">
- <img src="https://hizliresim.com/wPp5FH" width="200" height="200">
+ <img src="https://imgyukle.com/i/atuFJy" width="200" height="200">
   <h1>Olympus UserBot</h1>
 </div>
 <p align="center">
     Olympus UserBot, Telegram kullanmanızı kolaylaştıran bir bottur. Tamamen açık kaynaklı ve ücretsizdir.
     <br>
-        <a href="https://github.com/iibrahimwt13/AsenaUserBot/blob/master/README.md#kurulum">Kurulum</a> |
-        <a href="https://github.com/iibrahimwt13/AsenaUserBot/wiki/G%C3%BCncelleme">Güncelleme</a> |
+        <a href="https://github.com/iibrahimwt13/OlympusUserBot/blob/master/README.md#kurulum">Kurulum</a> |
+        <a href="https://github.com/iibrahimwt13/OlympusUserBot/wiki/G%C3%BCncelleme">Güncelleme</a> |
         <a href="https://t.me/olympuss10">Telegram Kanalı</a>
     <br>
 </p>
