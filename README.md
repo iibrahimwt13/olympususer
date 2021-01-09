@@ -1,6 +1,6 @@
 
 <div align="center">
- <img src="[url=https://hizliresim.com/xEbdsx][img]" width="200" height="200">
+ <img src="[url=https://hizliresim.com/xEbdsx][img]https://i.hizliresim.com/xEbdsx.jpg[/img][/url]" width="200" height="200">
   <h1>Olympus UserBot</h1>
 </div>
 <p align="center">
