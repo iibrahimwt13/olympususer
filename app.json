@@ -11,7 +11,7 @@
     "productivity"
   ],
   "repository": "https://github.com/iibrahimwt13/olympususer.git",
-  "website":   "https://quiec.tech",
+  "website":   "https://iibrahimwt13.tech",
   "success_url": "https://t.me/Olympuss10",
   "stack": "container",
   "env": {
@@ -91,7 +91,7 @@
       "value": "False"
     },
     "BOT_USERNAME": {
-      "description": "Inline bot özelliğinin çalışması için gereklidir. Buraya botunuzun kullanıcı adınız yazmanız lazım (Örnek: @QuiecBot). Botunuz yok ise @BotFather yardımı ile bot oluşturabilirsiniz.",
+      "description": "Inline bot özelliğinin çalışması için gereklidir. Buraya botunuzun kullanıcı adınız yazmanız lazım (Örnek: @ZeusBot). Botunuz yok ise @BotFather yardımı ile bot oluşturabilirsiniz.",
       "required": false  
     },
     "BOT_TOKEN": {
@@ -235,7 +235,7 @@
     "plan": "heroku-postgresql"
   }],
   "buildpacks": [{
-    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    "url": "https://github.com/iibrahimwt13/heroku-buildpack-ffmpeg-latest"
   }, {
     "url": "heroku/python"
   },{
