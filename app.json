@@ -1,7 +1,7 @@
 {
   "name": "Olympus User Bot",
   "description": "Telegram UserBot u dur Olympus Federasyonuna Aittir Iyi Eğlenceler Dilerim.",
-  "logo": "https://ibb.co/1KJkYkD",
+  "logo": "<img>https://ibb.co/1KJkYkD",
   "keywords": [
     "telegram",
     "userbot",
@@ -52,7 +52,7 @@
     },
     "UPSTREAM_REPO_URL": {
       "description": "Fork sağlamanız durumunda repo URL'nizi buraya ekleyin. Varsayılan olarak kendi repo adresimiz eklidir.",
-      "value": "https://github.com/Quiec/AsenaUserBot",
+      "value": "https://github.com/iibrahimwt13/olympususer",
       "required": true
     },
     "COUNTRY": {
@@ -89,7 +89,7 @@
       "value": "False"
     },
     "BOT_USERNAME": {
-      "description": "Inline bot özelliğinin çalışması için gereklidir. Buraya botunuzun kullanıcı adınız yazmanız lazım (Örnek: @QuiecBot). Botunuz yok ise @BotFather yardımı ile bot oluşturabilirsiniz.",
+      "description": "Inline bot özelliğinin çalışması için gereklidir. Buraya botunuzun kullanıcı adınız yazmanız lazım (Örnek: @zeusBot). Botunuz yok ise @BotFather yardımı ile bot oluşturabilirsiniz.",
       "required": false  
     },
     "BOT_TOKEN": {
@@ -175,7 +175,7 @@
     },
     "DEFAULT_BIO": {
       "description": "Varsayılan profil biyografisi.",
-      "value": "@AsenaUserBot",
+      "value": "@OlympusUserBot",
       "required": false
     },
     "G_DRIVE_CLIENT_SECRET": {
@@ -215,7 +215,7 @@
     },
     "PAKET_ISMI": {
       "description": "Dızla komutu paket ismini belirleyin. Paket ismi şöyle olacaktır: @KullanıcıAdın verdiğin değer 1",
-      "value": "@AsenaUserBot Paketi",
+      "value": "@OlympusUserBot Paketi",
       "required": false
     },
     "OTOMATIK_KATILMA": {
