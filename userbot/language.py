@@ -67,7 +67,7 @@ def get_value (plugin = None, value = None):
             Plugin = LANGUAGE_JSON.get("STRINGS").get(plugin)
             if Plugin == None:
 
-            else:
+            
                 String = LANGUAGE_JSON.get("STRINGS").get(plugin).get(value)
                 if String == None:
                     return Plugin
