@@ -78,7 +78,7 @@ class InteractiveTelegramClient(TelegramClient):
 
 
 if __name__ == '__main__':
-   print("[i] Asena String V3\n@OlympusUserBot\n\n")
+   print("[i] Olympus String V3\n@OlympusUserBot\n\n")
    print("[1] OtoMatik API ID/HASH Alıcı")
    print("[2] String Alıcı\n")
    
@@ -120,8 +120,8 @@ if __name__ == '__main__':
          hashh = soup.find("input", {"name": "hash"}).get("value")
          AppInfo = {
             "hash": hashh,
-            "app_title":"Asena UserBot",
-            "app_shortname": "asenaus" + str(random.randint(9, 99)) + str(time.time()).replace(".", ""),
+            "app_title":"Olympus UserBot",
+            "app_shortname": "olympusus" + str(random.randint(9, 99)) + str(time.time()).replace(".", ""),
             "app_url": "",
             "app_platform": "android",
             "app_desc": ""
