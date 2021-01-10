@@ -42,7 +42,6 @@ LANG = get_value("admin")
 
 # ████████████████████████████████ #
 
-PP_TOO_SMOL = LANG['PP_TOO_SMOL']
 PP_ERROR = LANG['PP_ERROR']
 NO_ADMIN = LANG['NO_ADMIN']
 NO_PERM = LANG['NO_PERM']
