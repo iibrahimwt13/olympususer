@@ -40,12 +40,7 @@ import datetime
 from userbot.language import get_value
 LANG = get_value("admin")
 
-# ████████████████████████████████ #
-
-PP_ERROR = LANG['PP_ERROR']
-NO_ADMIN = LANG['NO_ADMIN']
-NO_PERM = LANG['NO_PERM']
-NO_SQL = LANG['NO_SQL']
+# ████████████████████████████████ 
 
 CHAT_PP_CHANGED = LANG['CHAT_PP_CHANGED']
 CHAT_PP_ERROR = LANG['CHAT_PP_ERROR']
