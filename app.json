@@ -10,7 +10,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/iibrahimwt13/olympususer.git",
+  "repository": "https://github.com/iibrahimwt13/olympususer",
   "website":   "https://quiec.tech",
   "success_url": "https://t.me/Olympuss10",
   "stack": "container",
@@ -24,7 +24,7 @@
       "required": true
     },
     "PLUGIN_CHANNEL_ID": {
-      "description": "İsteğe bağlıdır, almak için @AsenaKaliciPlugin",
+      "description": "İsteğe bağlıdır, almak için @OlympusKaliciPlugin",
       "required": false
     },
     "SPOTIFY_DC": {
@@ -54,7 +54,7 @@
     },
     "UPSTREAM_REPO_URL": {
       "description": "Fork sağlamanız durumunda repo URL'nizi buraya ekleyin. Varsayılan olarak kendi repo adresimiz eklidir.",
-      "value": "https://github.com/iibrahimwt13/olympususer.git",
+      "value": "https://github.com/iibrahimwt13/olympususer",
       "required": true
     },
     "COUNTRY": {
