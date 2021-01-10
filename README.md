@@ -27,7 +27,7 @@
 ### Basit Yöntem
 Eğer botu kurma hakkında fikriniz yoksa burayı okuyunuz: [Kurulum Rehberi](https://github.com/Quiec/AsenaUserBot/wiki/Kurulum/)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?)"alt="Deploy to Heroku" /></a></p>
+[![Deploy]https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 ### Zor Yöntem
 ```python
 git clone https://github.com/iibrahimwt13/AsenaUserBot.git
