@@ -42,10 +42,6 @@ LANG = get_value("admin")
 
 # ████████████████████████████████ 
 
-CHAT_PP_CHANGED = LANG['CHAT_PP_CHANGED']
-CHAT_PP_ERROR = LANG['CHAT_PP_ERROR']
-INVALID_MEDIA = LANG['INVALID_MEDIA']
-
 BANNED_RIGHTS = ChatBannedRights(
     until_date=None,
     view_messages=True,
