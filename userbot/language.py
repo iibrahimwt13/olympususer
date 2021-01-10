@@ -66,7 +66,7 @@ def get_value (plugin = None, value = None):
         if not plugin == None or value == None:
             Plugin = LANGUAGE_JSON.get("STRINGS").get(plugin)
             if Plugin == None:
-                raise Exception("Invalide plugin")
+
             else:
                 String = LANGUAGE_JSON.get("STRINGS").get(plugin).get(value)
                 if String == None:
