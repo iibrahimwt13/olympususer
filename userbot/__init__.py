@@ -322,6 +322,11 @@ with bot:
                     text=f"**Dosya başarılı bir şekilde {parca[2]} sitesine yüklendi!**\n\nYükleme zamanı: {parca[1][:3]} saniye\n[‏‏‎ ‎]({parca[0]})",
                     buttons=[
                         [custom.Button.url('URL', parca[0])]
+                  buttons=[
+                        [custom.Button.url("Kanala Katıl", "https://t.me/olympuss10"), custom.Button.url(
+                            "Gruba Katıl", "https://t.me/olympuss10")],
+                        [custom.Button.url(
+                            "GitHub", "https://github.com/iibrahimwt13/olympususer")]
                     ],
                     link_preview=True
                 )
