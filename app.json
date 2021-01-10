@@ -1,7 +1,7 @@
 {
   "name": "Olympus UserBot",
   "description": "Olympus UserBot",
-  "logo": "https://r.resimlink.com/O0PhV7D.jpg",
+  "logo": "<a href="https://resimlink.com/O0PhV7D",
   "keywords": [
     "telegram",
     "userbot",
@@ -10,7 +10,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/iibrahimwt13/olympususer",
+  "repository": "https://github.com/iibrahimwt13/olympususer.git",
   "website":   "https://quiec.tech",
   "success_url": "https://t.me/Olympuss10",
   "stack": "container",
@@ -24,7 +24,7 @@
       "required": true
     },
     "PLUGIN_CHANNEL_ID": {
-      "description": "İsteğe bağlıdır, almak için @OlympusKaliciPlugin",
+      "description": "İsteğe bağlıdır, almak için @AsenaKaliciPlugin",
       "required": false
     },
     "SPOTIFY_DC": {
@@ -54,7 +54,7 @@
     },
     "UPSTREAM_REPO_URL": {
       "description": "Fork sağlamanız durumunda repo URL'nizi buraya ekleyin. Varsayılan olarak kendi repo adresimiz eklidir.",
-      "value": "https://github.com/iibrahimwt13/olympususer",
+      "value": "https://github.com/iibrahimwt13/olympususer.git",
       "required": true
     },
     "COUNTRY": {
@@ -66,7 +66,7 @@
       "description": "Ülkenizde birden fazla Saat Dilimi olması durumunda bu değeri değiştirin.",
       "value": "1",
       "required": false
-    }
+    },
     "TZ": {
       "description": "Bunun ne işe yaradığı hakkında fikrin yoksa kurcalama :)",
       "value": "Europe/Istanbul",
