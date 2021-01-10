@@ -330,12 +330,7 @@ with bot:
                     "@OlympusUserBot",
                     text="""@OlympusUserBot'u kullanmayı deneyin!
 Hesabınızı bot'a çevirebilirsiniz ve bunları kullanabilirsiniz. Unutmayın, siz başkasının botunu yönetemezsiniz! Alttaki GitHub adresinden tüm kurulum detayları anlatılmıştır.""",
-                    buttons=[
-                        
-                            "Gruba Katıl", "https://t.me/olympuss10")],
-                        [custom.Button.url(
-                            "GitHub", "https://github.com/quiec/AsenaUserBot")]
-                    ],
+                   ,
                     link_preview=False
                 )
             await event.answer([result] if result else None)
