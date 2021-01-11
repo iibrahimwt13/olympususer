@@ -31,14 +31,14 @@ LANG = get_value("lastfm")
 
 # ████████████████████████████████ #
 
-LFM_BIO_ENABLED = LANG['BIO_ENABLED']
-LFM_BIO_DISABLED = LANG['BIO_DISABLED']
-LFM_BIO_RUNNING = LANG['BIO_RUNNING']
-LFM_BIO_ERR = LANG['BIO_ERR']
-LFM_LOG_ENABLED = LANG['LOG_ENABLED']
-LFM_LOG_DISABLED = LANG['LOG_DISABLED']
-LFM_LOG_ERR = LANG['LOG_ERR']
-ERROR_MSG = LANG['ERROR_MSG']
+LFM_BIO_ENABLED = "```last.fm current music to bio is now enabled.```"
+LFM_BIO_DISABLED = "```last.fm current music to bio is now disabled. Bio reverted to default.```"
+LFM_BIO_RUNNING = "```last.fm current music to bio is already running.```"
+LFM_BIO_ERR = "```No option specified.```"
+LFM_LOG_ENABLED = "```last.fm logging to bot log is now enabled.```"
+LFM_LOG_DISABLED = "```last.fm logging to bot log is now disabled.```"
+LFM_LOG_ERR = "```No option specified.```"
+ERROR_MSG = "```last.fm module halted, got an unexpected error.```"
 
 ARTIST = 0
 SONG = 0
