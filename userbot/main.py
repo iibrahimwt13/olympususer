@@ -233,7 +233,7 @@ async def FotoDegistir (foto):
     except:
         return False
 
-for module_name in ALL_MODULES:
+    for module_name in ALL_MODULES:
     imported_module = import_module("userbot.modules." + module_name)
 
 LOGS.info("Botunuz çalışıyor! Herhangi bir sohbete .alive yazarak Test edin."
