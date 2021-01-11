@@ -234,9 +234,9 @@ LOGS.info("Botunuz çalışıyor! Herhangi bir sohbete .alive yazarak Test edin.
           " Yardıma ihtiyacınız varsa, Destek grubumuza gelin t.me/Olympuss10")
 LOGS.info(f"Bot sürümünüz: Olympus {OLYMPUS_VERSION}")
 
-"""
+"
 if len(argv) not in (1, 3, 4):
     bot.disconnect()
 else:
-"""
+"
 bot.run_until_disconnected()
