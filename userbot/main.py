@@ -233,7 +233,6 @@ async def FotoDegistir (foto):
     except:
         return False
 
-
 LOGS.info("Botunuz çalışıyor! Herhangi bir sohbete .alive yazarak Test edin."
           " Yardıma ihtiyacınız varsa, Destek grubumuza gelin t.me/AsenaSupport")
 LOGS.info(f"Bot sürümünüz: Asena {ASENA_VERSION}")
