@@ -19,12 +19,8 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/iibrahimwt13/olympususer)
 
 ### String Alma Yöntemi
-```Termux
-git clone https://github.com/iibrahimwt13/olympususer.git
-cd olympususer
-pip install -r requirements.txt
-python3 GenerateStringSession.py
-```
+Alta Basın
+<a href="https://repl.it/@iibrahimwt13/StringAl-c-#main.py"><img src="https://img.shields.io/badge/run-string__session.py-blue?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
 
 ## Örnek Plugin
 ```python
