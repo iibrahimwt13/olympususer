@@ -37,7 +37,7 @@ Help.add_command('deneme', # Komut
     'Gerçekten deneme yapıyor!', # Komut açıklaması
     'deneme' # Örnek kullanım.
     )
-Help.add_info('@Fusuf tarafından yapılmıştır.') # Bilgi ekleyebilirsiniz.
+Help.add_info('@ZeuS0010 tarafından yapılmıştır.') # Bilgi ekleyebilirsiniz.
 # Ya da uyarı --> Help.add_warning('KULLANMA!')
 Help.add() # Ve Ekleyelim.
 ```
