@@ -1,6 +1,6 @@
 
 <div align="center">
- <img src="<a href="https://resimlink.com/O0PhV7D" title="ZeuS Olympus"><img src="https://r.resimlink.com/O0PhV7D.jpg" title="ZeuS Olympus" alt="ZeuS Olympus"></a>" 
+ <a href="<a href="https://resimyukle.xyz/i/VR5AKT"><img src="https://i.resimyukle.xyz/VR5AKT.jpg" /></a> 
   <h1>Olympus UserBot</h1>
 </div>
 <p align="center">
