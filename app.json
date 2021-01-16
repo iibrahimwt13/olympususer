@@ -233,6 +233,7 @@
     "url": "heroku/python"
   },{
     "url": "heroku-community/apt"
+          }
     }
-  }
+  ]
 }
