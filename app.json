@@ -222,8 +222,8 @@
       "description": "Support grubuna ve Kanal'a otomatik katılmak istemiyorsanız False yazın.",
       "value": "True",
       "required": true
-    },
-
+    }
+  },
   "addons": [{
     "plan": "heroku-postgresql"
   }],
@@ -233,6 +233,5 @@
     "url": "heroku/python"
   },{
     "url": "heroku-community/apt"
-          }
-  ]
+    }]
 }
